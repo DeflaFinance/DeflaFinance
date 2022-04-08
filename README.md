@@ -12,9 +12,9 @@ Defla provide its holders with a chance to make money, by investing, building, h
 
 # About
 ## 2% of the tokens destroyed. FOREVER!
-At every transaction and at every liquidity pool removed on Defi protocol, DEFLA burns 2% of the coins by sending them to a dead address. So, it lowers the circulating supply by destroying tokens.
+At every transaction and at every liquidity pool removed on Defi protocol, DEFLA burns 2% of the coins by sending them to a dead address 0x000000000000000000000000000000000000dead. So, it lowers the circulating supply by destroying tokens.
 
-Forever: DEFLA is designed to reduce supply at every transaction with 2% sent in DEAD address
+Forever: DEFLA is designed to reduce supply at every transaction with 2% sent in DEAD address 0x000000000000000000000000000000000000dead
 Dead Address: You can monitor all transaction of DEAD address here
 Increase: Low emission, Aidrop for community, 10% initial Burn and LP on BSC, will take off $DFLA to the moon!
 Buy and create you own LP on BSC DEFI to get +0,17% at every transaction meanwhile $DFLA reduce it's supply and team burn coins
@@ -27,3 +27,6 @@ Growth DEFLA team will spend 20% of annual operating profits — calculated as t
 
 # Contact details
 Don't hesitate to send your questions to hello@deflationary.finance
+
+# BSC Contract 
+https://bscscan.com/token/0x0bb03a77dafaca79f084f4f65d4722d76aff99d9
