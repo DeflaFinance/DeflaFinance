@@ -29,4 +29,4 @@ Growth DEFLA team will spend 20% of annual operating profits — calculated as t
 Don't hesitate to send your questions to hello@deflationary.finance
 
 # BSC Contract 
-https://bscscan.com/token/0x0bb03a77dafaca79f084f4f65d4722d76aff99d9
+https://bscscan.com/token/0xA7d24765607D3D16D90418bA02A0F869C9dB02F2
