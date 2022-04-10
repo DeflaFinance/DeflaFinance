@@ -1,7 +1,7 @@
 
 # Deflationary “Defla” is a self-destructing currency
 
-#Security Audit Passed
+# Security Audit Passed
 [![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/cdd4fbad-9fc7-4e6e-9fdf-ba07bf893347/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
 
 ## $DEFLA is a digital commodity build to create a deflationary market designed to reduce supply at every transaction.
@@ -32,7 +32,7 @@ Don't hesitate to send your questions to hello@deflationary.finance
 # BSC Contract 
 https://bscscan.com/token/0x0bb03a77DaFACa79f084f4f65d4722D76Aff99D9
 
-#Security Audit Passed
+# Security Audit Passed
 [![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/cdd4fbad-9fc7-4e6e-9fdf-ba07bf893347/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
 
 
